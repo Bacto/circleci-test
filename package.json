@@ -1,0 +1,11 @@
+{
+  "name": "circleci-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:Bacto/circleci-test.git",
+  "author": "Bacto <adrien@bacto.net>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'tests are ok of course'"
+  }
+}
